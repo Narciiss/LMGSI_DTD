@@ -1,0 +1,1 @@
+<!ELEMENT cataleg (llista_actors, llista_pelicules, llista_recomanacions_peliculas) 
